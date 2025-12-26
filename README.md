@@ -1,4 +1,4 @@
-# NoelleLoveYa
+# Squibbbbbbbbly
 Random shits
 
 This is just a place for me to store my shit so I don't lose anything :p   
