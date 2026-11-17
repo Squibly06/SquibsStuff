@@ -1,4 +1,4 @@
-# Squibbbbbbbbly
+# Idfk man | Hi BSKY
 Random shits
 
 This is just a place for me to store my shit so I don't lose anything :p   
