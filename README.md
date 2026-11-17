@@ -12,7 +12,7 @@ or don't I can't force you LMAO
 
 > color - healthbar color
 
-> Flash Camera (txt and lua) - flashes the camera with a color
+> Flash Camera (txt and lua) - flashes the camera with a color (custom event)
 
 > Freeplay State - Freeplay Portraits
 
@@ -25,3 +25,5 @@ or don't I can't force you LMAO
 > Discord.hx - needed for custom discord RPC
 
 > goodbyeGF - just removes GF, for the funny.
+
+# I will add more scripts the more I work.
